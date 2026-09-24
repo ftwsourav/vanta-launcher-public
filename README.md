@@ -14,9 +14,11 @@ A brutalist Windows Phone Metro-inspired Android launcher built with Kotlin + Je
   <img src="https://img.shields.io/badge/Kotlin-Jetpack%20Compose-7F52FF?style=for-the-badge&labelColor=0a0a0a" alt="Compose">
   <img src="https://img.shields.io/badge/Refresh-Auto%20Hz-00BCD4?style=for-the-badge&labelColor=0a0a0a" alt="Auto Hz">
   <img src="https://img.shields.io/badge/Dark%20Mode-Auto-9C27B0?style=for-the-badge&labelColor=0a0a0a" alt="Auto Dark">
+  <img src="https://img.shields.io/badge/License-Apache%202.0-4CAF50?style=for-the-badge&labelColor=0a0a0a" alt="Apache 2.0">
+  <img src="https://img.shields.io/badge/Privacy-No%20Tracking-2196F3?style=for-the-badge&labelColor=0a0a0a" alt="No Tracking">
 </p>
 
-[Download APK](https://github.com/ftwsourav/vanta-launcher-public/releases) &middot; [Releases](https://github.com/ftwsourav/vanta-launcher-public/releases)
+[Download APK](https://github.com/ftwsourav/vanta-launcher-public/releases) &middot; [Releases](https://github.com/ftwsourav/vanta-launcher-public/releases) &middot; [Privacy Policy](PRIVACY_POLICY.md)
 
 </div>
 

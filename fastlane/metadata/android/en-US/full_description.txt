@@ -1,0 +1,50 @@
+Vanta is a brutalist Android launcher inspired by the Windows Phone 8.1 / 10 Lumia Metro UI. It blends the classic live-tile aesthetic with modern productivity features, built for daily-driver use on any Android 11+ device — from a 60Hz budget phone to a 120Hz flagship to a foldable tablet.
+
+FOUR-PIVOT WORKFLOW
+Home — live tiles, weather, clock, music, your pinned apps
+Apps — full drawer with most-used, recently-used, search, letter scrubber
+Focus — stopwatch, quick timers, quick notes, productivity suggestions
+Live — notifications, now-playing, battery, next alarm, calendar
+
+LIVE TILES
+Every tile is alive. Flip animations with random timing. Weather, clock, battery, music, and notification badges update in real time. Long-press for app shortcuts, app info, and uninstall.
+
+AUTO EVERYTHING
+- Auto dark mode: follows system, or sunset/sunrise, or manual
+- Auto refresh rate: device-best by default (60/90/120Hz auto, battery-safe)
+- Auto tablet layout: 4 / 5 / 6 columns based on screen width
+
+PERSONALIZATION
+- 48 accent colors + 6 themes
+- Material You dynamic color (Android 12+) — whole theme follows wallpaper
+- Wallpaper presets (6 built-in gradients)
+- Status bar customization (show / transparent / icon color)
+- Icon pack support (Lawnicon format)
+- Backup / Restore — export + import all settings as JSON
+
+PRODUCTIVITY
+- Recents app switcher (Lumia-style cards, swipe to kill)
+- Quick Settings panel (WiFi / BT / DND / Flash / Rotate / Brightness)
+- App shortcuts on long-press
+- Notification badges with unread count per app
+- Web search + history in swipe-down search
+- Most-used + recently-used sections in drawer
+
+PERFORMANCE
+- 5 smoothness presets (silky pager, slideable home, motion touch)
+- Tablet + foldable adaptive layouts
+- First-run onboarding tutorial
+- Hindi + Spanish localization
+- TalkBack accessibility (content descriptions on all tiles)
+- Haptics throughout
+
+PRIVACY
+- No tracking
+- No cloud sync
+- No analytics
+- No ads
+- All data stays on your device
+
+Built with Kotlin + Jetpack Compose. Open source under Apache 2.0.
+
+Developer: @ftwsourav

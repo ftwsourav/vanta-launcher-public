@@ -1,0 +1,17 @@
+v5.1 — The Big 10-Feature Sprint
+
+YOUR 3 REQUESTS
+- Auto dark mode (AUTO SYSTEM default, 4-way cycle, AUTO TIME via sunset/sunrise)
+- Auto refresh rate (AUTO default, 5-way cycle, no forced 120Hz)
+- Tablet + any DPI support (BoxWithConstraints, 4/5/6 columns, adaptive grids)
+
+PLUS 7 MORE
+- V logo as app icon (Metro Tile V in adaptive icon)
+- V logo splash (replaces the old S animation)
+- Live tile real content (battery/weather/clock poll real data)
+- Icon pack support (Lawnicon format)
+- Material You full theme (whole AppColors from wallpaper, Android 12+)
+- Localization (Hindi + Spanish strings.xml)
+- Accessibility (TalkBack content descriptions on tiles)
+
+Stability improvements and bug fixes throughout.
